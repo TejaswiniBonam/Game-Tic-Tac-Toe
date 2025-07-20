@@ -62,3 +62,10 @@ color palatte
 #FAA4BD
 #FAE3C6
 
+
+
+
+TODO--------------------
+* Once game starts the details taking section (emoji, player names should disable)
+* 
+

@@ -11,7 +11,7 @@ function GameSpace() {
     
     const emojiOptions = ['❌', '⭕', '❤️', '💜', '⚡', '🌟', '🔥', '🍕', '🐶', '🌈'];
     let turn = move % 2 === 0 ? player1.emoji : player2.emoji;
-    let feedback = 'AME ON PLAY MODE';
+    let feedback = 'GAME ON PLAY MODE';
 
     let newValues = values.slice();
 
