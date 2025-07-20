@@ -5,7 +5,7 @@ export default function Header({mode}){
             <nav className={styles.navBar}>
 
                 <div className={styles.head1}>
-                    <a href="#home" className={[styles.HeadText, styles.navItem].join(' ')}>TicTacToe</a>
+                    <a href="#home" className={[styles.HeadText, styles.navItem].join(' ')}> TicTacToe</a>
                 </div>
                 <div className={styles.head2}>    
                 <a href="#Score" className={styles.navItem}>ScoreBoard</a>

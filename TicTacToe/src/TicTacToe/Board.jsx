@@ -10,7 +10,6 @@ export default function({values, onBoxClick, onReset}) {
                 <Box value={values[1]} onBoxClick={() => { onBoxClick(1); }} />
                 <Box value={values[2]} onBoxClick={() => { onBoxClick(2); }} />
             
-            
                 <Box value={values[3]} onBoxClick={() => { onBoxClick(3); }} />
                 <Box value={values[4]} onBoxClick={() => { onBoxClick(4); }} />
                 <Box value={values[5]} onBoxClick={() => { onBoxClick(5); }} />
